@@ -1,0 +1,34 @@
+# Gatsby 관련
+node_modules/
+.cache/
+public/
+
+# 환경 변수 파일
+.env
+.env.*
+
+# Yarn Berry 관련
+.pnp.cjs
+.pnp.loader.mjs
+
+# E2E 테스트
+cypress/screenshots/
+cypress/videos/
+
+# 로그 파일
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS 관련
+.DS_Store
+
+# 에디터 관련
+.vscode/
+.idea/
+
+# 기타 불필요 항목
+*.log
+*.tmp
+*.swp
+
