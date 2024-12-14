@@ -3,3 +3,12 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+# Gatsby 관련 불필요 파일/폴더
+node_modules/
+.cache/
+public/
+
+# 환경 변수 파일
+.env
+.env.*
+
